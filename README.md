@@ -5,3 +5,6 @@ Importante:
 Sempre desenvolva textos com sua própria argumentação. Lembre-se de indicar quais foram às fontes de referências de pesquisa. Nunca copie e cole informações da Internet, de outro colega ou qualquer outra fonte como sendo sua produção, já que essas situações caracterizam plágio e invalidam sua atividade.
 
 Podemos ver no feedback que o obejetivo foi alcançado , com a nota maxima....
+
+[] Clone Repo
+[] Run trabalhomedia.py
